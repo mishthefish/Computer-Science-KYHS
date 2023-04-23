@@ -1,4 +1,4 @@
-//© A+ Computer Science  -  www.apluscompsci.com
+//Å  A+ Computer Science  -  www.apluscompsci.com
 //Name -
 //Date -
 //Class -
@@ -43,7 +43,7 @@ public class BigHouse extends Canvas
       
       window.setColor(Color.WHITE);
       window.fillRect(360, 400, 100, 300);
-      
+      // Hey whats up? We are codung 
 
    }
 }
